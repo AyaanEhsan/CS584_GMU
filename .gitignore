@@ -1,3 +1,3 @@
 .DS_Store
-.ipynb_checkpoint
-training_text
+.ipynb_checkpoints
+/training_text
